@@ -92,21 +92,21 @@
         cursor: pointer;
     }
 }
-.body_section::before{
-    content: attr(data-ok);
-    display: flex;
-    position: absolute;
-    height: 50px;
-    width: 50px;
-    background-color: #00e004;
-    border: 5px solid #13bf00;
-    text-align: center;
-    border-radius: 100%;
-    color: #fff;
-    font-size: 1.7em;
-    font-weight: 700;
-    top: -15px;
-    right: -15px;
-    justify-content: center;
-    align-items: center;
-}
+// .body_section::before{
+//     content: attr(data-ok);
+//     display: flex;
+//     position: absolute;
+//     height: 50px;
+//     width: 50px;
+//     background-color: #00e004;
+//     border: 5px solid #13bf00;
+//     text-align: center;
+//     border-radius: 100%;
+//     color: #fff;
+//     font-size: 1.7em;
+//     font-weight: 700;
+//     top: -15px;
+//     right: -15px;
+//     justify-content: center;
+//     align-items: center;
+// }
